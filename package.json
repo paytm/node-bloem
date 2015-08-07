@@ -15,7 +15,7 @@
 	],
 	"dependencies": {
 		"fnv": "0.1.x",
-		"bitbuffer": "git://github.com/qzaidi/node-bitbuffer.git"
+		"bitbuffer": "git://github.com/paytm/node-bitbuffer.git"
 	},
 	"devDependencies": {
 		"mocha": "1.8.x"
